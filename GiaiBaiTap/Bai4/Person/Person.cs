@@ -23,12 +23,12 @@ namespace Person
             this.email = email;
             this.address = address;
         }
-        public void CheckAge()
+        public String CheckAge()
         {
             if (age > 17)
-                Console.WriteLine("Bạn đủ tuổi bầu cử");
+                return "Bạn đủ tuổi bầu cử";
             else
-                Console.WriteLine("Bạn còn nhỏ");
+                return "Bạn còn nhỏ";
         }
 
         public void input()
@@ -52,7 +52,7 @@ namespace Person
 
         public void output()
         {
-            Console.WriteLine($"{id,5} {name,15} {age,15} {email,15} {address,15}");
+            Console.WriteLine($"{id,5} {name,15} {age,15} {email,15} {address,15} {CheckAge(), 25}");
         }
     }
 }
