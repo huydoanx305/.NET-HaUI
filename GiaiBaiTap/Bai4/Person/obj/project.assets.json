@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Haui\\C#\\Bai4\\Person\\Person.csproj",
+      "projectUniqueName": "D:\\Haui\\C#\\GiaiBaiTap\\Bai4\\Person\\Person.csproj",
       "projectName": "Person",
-      "projectPath": "D:\\Haui\\C#\\Bai4\\Person\\Person.csproj",
+      "projectPath": "D:\\Haui\\C#\\GiaiBaiTap\\Bai4\\Person\\Person.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Haui\\C#\\Bai4\\Person\\obj\\",
+      "outputPath": "D:\\Haui\\C#\\GiaiBaiTap\\Bai4\\Person\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -52,7 +52,7 @@ namespace Person
 
         public void output()
         {
-            Console.WriteLine($"{id,5} {name,10} {age,10} {email,10} {address,10}");
+            Console.WriteLine($"{id,5} {name,15} {age,15} {email,15} {address,15}");
         }
     }
 }

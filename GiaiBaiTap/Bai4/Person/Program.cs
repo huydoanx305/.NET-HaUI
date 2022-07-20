@@ -7,15 +7,10 @@ namespace Person
         static void Main(string[] args)
         {
             Console.OutputEncoding = System.Text.Encoding.Unicode;
-            Person person = new Person("Doan Van Huy", 20, "huycntt", "thanh hoa");
-            Person person2 = new Person("Doan Van Huy", 20, "huycntt", "thanh hoa");
-            Person person3 = new Person("Doan Van Huy", 20, "huycntt", "thanh hoa");
+            Person person = new Person("Doãn Văn Huy", 20, "huydoanx305", "Thanh Hóa");
             //person.input();
-            Console.WriteLine($"{"Id",5} {"Name",10} {"Age",10} {"Email",10} {"Address",10}");
-            Console.WriteLine($"{person.id,5} {person.name,10} {person.age,10} {person.email,10} {person.address,10}");
-            Console.WriteLine(person.id);
-            Console.WriteLine(person2.id);
-            Console.WriteLine(person3.id);
+            Console.WriteLine($"{"Id",5} {"Name",15} {"Age",15} {"Email",15} {"Address",15}");
+            person.output();
         }
     }
 }
