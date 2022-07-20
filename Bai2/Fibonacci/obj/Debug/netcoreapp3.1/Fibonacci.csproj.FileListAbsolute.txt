@@ -1,0 +1,14 @@
+D:\Haui\C#\Bai2\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.exe
+D:\Haui\C#\Bai2\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.deps.json
+D:\Haui\C#\Bai2\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.json
+D:\Haui\C#\Bai2\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.runtimeconfig.dev.json
+D:\Haui\C#\Bai2\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.dll
+D:\Haui\C#\Bai2\Fibonacci\bin\Debug\netcoreapp3.1\Fibonacci.pdb
+D:\Haui\C#\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.AssemblyReference.cache
+D:\Haui\C#\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haui\C#\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfoInputs.cache
+D:\Haui\C#\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.AssemblyInfo.cs
+D:\Haui\C#\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.csproj.CoreCompileInputs.cache
+D:\Haui\C#\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.dll
+D:\Haui\C#\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.pdb
+D:\Haui\C#\Bai2\Fibonacci\obj\Debug\netcoreapp3.1\Fibonacci.genruntimeconfig.cache

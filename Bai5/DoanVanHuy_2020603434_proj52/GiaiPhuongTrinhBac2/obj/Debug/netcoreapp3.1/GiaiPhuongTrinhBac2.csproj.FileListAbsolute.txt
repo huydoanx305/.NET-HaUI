@@ -1,0 +1,14 @@
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\bin\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.exe
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\bin\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.deps.json
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\bin\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.runtimeconfig.json
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\bin\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.runtimeconfig.dev.json
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\bin\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.dll
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\bin\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.pdb
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\obj\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.csproj.AssemblyReference.cache
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\obj\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\obj\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.AssemblyInfoInputs.cache
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\obj\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.AssemblyInfo.cs
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\obj\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.csproj.CoreCompileInputs.cache
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\obj\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.dll
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\obj\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.pdb
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\GiaiPhuongTrinhBac2\obj\Debug\netcoreapp3.1\GiaiPhuongTrinhBac2.genruntimeconfig.cache

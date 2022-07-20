@@ -1,0 +1,13 @@
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\DoanVanHuy_2020603434_proj52\bin\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj52.exe
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\DoanVanHuy_2020603434_proj52\bin\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj52.deps.json
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\DoanVanHuy_2020603434_proj52\bin\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj52.runtimeconfig.json
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\DoanVanHuy_2020603434_proj52\bin\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj52.runtimeconfig.dev.json
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\DoanVanHuy_2020603434_proj52\bin\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj52.dll
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\DoanVanHuy_2020603434_proj52\bin\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj52.pdb
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\DoanVanHuy_2020603434_proj52\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj52.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\DoanVanHuy_2020603434_proj52\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj52.AssemblyInfoInputs.cache
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\DoanVanHuy_2020603434_proj52\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj52.AssemblyInfo.cs
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\DoanVanHuy_2020603434_proj52\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj52.csproj.CoreCompileInputs.cache
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\DoanVanHuy_2020603434_proj52\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj52.dll
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\DoanVanHuy_2020603434_proj52\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj52.pdb
+D:\Haui\C#\Bai5\DoanVanHuy_2020603434_proj52\DoanVanHuy_2020603434_proj52\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj52.genruntimeconfig.cache

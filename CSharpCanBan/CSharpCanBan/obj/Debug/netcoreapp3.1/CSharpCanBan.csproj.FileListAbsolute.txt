@@ -1,0 +1,14 @@
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\bin\Debug\netcoreapp3.1\CSharpCanBan.exe
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\bin\Debug\netcoreapp3.1\CSharpCanBan.deps.json
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\bin\Debug\netcoreapp3.1\CSharpCanBan.runtimeconfig.json
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\bin\Debug\netcoreapp3.1\CSharpCanBan.runtimeconfig.dev.json
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\bin\Debug\netcoreapp3.1\CSharpCanBan.dll
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\bin\Debug\netcoreapp3.1\CSharpCanBan.pdb
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.csproj.AssemblyReference.cache
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.AssemblyInfoInputs.cache
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.AssemblyInfo.cs
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.csproj.CoreCompileInputs.cache
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.dll
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.pdb
+D:\Haui\C#\CSharpCanBan\CSharpCanBan\obj\Debug\netcoreapp3.1\CSharpCanBan.genruntimeconfig.cache

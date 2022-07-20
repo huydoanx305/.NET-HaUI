@@ -1,0 +1,14 @@
+D:\Haui\C#\Bai3\TachDay\bin\Debug\netcoreapp3.1\TachDay.exe
+D:\Haui\C#\Bai3\TachDay\bin\Debug\netcoreapp3.1\TachDay.deps.json
+D:\Haui\C#\Bai3\TachDay\bin\Debug\netcoreapp3.1\TachDay.runtimeconfig.json
+D:\Haui\C#\Bai3\TachDay\bin\Debug\netcoreapp3.1\TachDay.runtimeconfig.dev.json
+D:\Haui\C#\Bai3\TachDay\bin\Debug\netcoreapp3.1\TachDay.dll
+D:\Haui\C#\Bai3\TachDay\bin\Debug\netcoreapp3.1\TachDay.pdb
+D:\Haui\C#\Bai3\TachDay\obj\Debug\netcoreapp3.1\TachDay.csproj.AssemblyReference.cache
+D:\Haui\C#\Bai3\TachDay\obj\Debug\netcoreapp3.1\TachDay.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haui\C#\Bai3\TachDay\obj\Debug\netcoreapp3.1\TachDay.AssemblyInfoInputs.cache
+D:\Haui\C#\Bai3\TachDay\obj\Debug\netcoreapp3.1\TachDay.AssemblyInfo.cs
+D:\Haui\C#\Bai3\TachDay\obj\Debug\netcoreapp3.1\TachDay.csproj.CoreCompileInputs.cache
+D:\Haui\C#\Bai3\TachDay\obj\Debug\netcoreapp3.1\TachDay.dll
+D:\Haui\C#\Bai3\TachDay\obj\Debug\netcoreapp3.1\TachDay.pdb
+D:\Haui\C#\Bai3\TachDay\obj\Debug\netcoreapp3.1\TachDay.genruntimeconfig.cache

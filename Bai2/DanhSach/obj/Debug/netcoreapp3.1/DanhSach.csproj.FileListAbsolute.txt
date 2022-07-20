@@ -1,0 +1,14 @@
+D:\Haui\C#\Bai2\DanhSach\bin\Debug\netcoreapp3.1\DanhSach.exe
+D:\Haui\C#\Bai2\DanhSach\bin\Debug\netcoreapp3.1\DanhSach.deps.json
+D:\Haui\C#\Bai2\DanhSach\bin\Debug\netcoreapp3.1\DanhSach.runtimeconfig.json
+D:\Haui\C#\Bai2\DanhSach\bin\Debug\netcoreapp3.1\DanhSach.runtimeconfig.dev.json
+D:\Haui\C#\Bai2\DanhSach\bin\Debug\netcoreapp3.1\DanhSach.dll
+D:\Haui\C#\Bai2\DanhSach\bin\Debug\netcoreapp3.1\DanhSach.pdb
+D:\Haui\C#\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haui\C#\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.AssemblyInfoInputs.cache
+D:\Haui\C#\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.AssemblyInfo.cs
+D:\Haui\C#\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.csproj.CoreCompileInputs.cache
+D:\Haui\C#\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.dll
+D:\Haui\C#\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.pdb
+D:\Haui\C#\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.genruntimeconfig.cache
+D:\Haui\C#\Bai2\DanhSach\obj\Debug\netcoreapp3.1\DanhSach.csproj.AssemblyReference.cache

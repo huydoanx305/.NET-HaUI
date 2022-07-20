@@ -1,0 +1,14 @@
+D:\Haui\C#\Bai2\HeCoSo\bin\Debug\netcoreapp3.1\HeCoSo.exe
+D:\Haui\C#\Bai2\HeCoSo\bin\Debug\netcoreapp3.1\HeCoSo.deps.json
+D:\Haui\C#\Bai2\HeCoSo\bin\Debug\netcoreapp3.1\HeCoSo.runtimeconfig.json
+D:\Haui\C#\Bai2\HeCoSo\bin\Debug\netcoreapp3.1\HeCoSo.runtimeconfig.dev.json
+D:\Haui\C#\Bai2\HeCoSo\bin\Debug\netcoreapp3.1\HeCoSo.dll
+D:\Haui\C#\Bai2\HeCoSo\bin\Debug\netcoreapp3.1\HeCoSo.pdb
+D:\Haui\C#\Bai2\HeCoSo\obj\Debug\netcoreapp3.1\HeCoSo.csproj.AssemblyReference.cache
+D:\Haui\C#\Bai2\HeCoSo\obj\Debug\netcoreapp3.1\HeCoSo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haui\C#\Bai2\HeCoSo\obj\Debug\netcoreapp3.1\HeCoSo.AssemblyInfoInputs.cache
+D:\Haui\C#\Bai2\HeCoSo\obj\Debug\netcoreapp3.1\HeCoSo.AssemblyInfo.cs
+D:\Haui\C#\Bai2\HeCoSo\obj\Debug\netcoreapp3.1\HeCoSo.csproj.CoreCompileInputs.cache
+D:\Haui\C#\Bai2\HeCoSo\obj\Debug\netcoreapp3.1\HeCoSo.dll
+D:\Haui\C#\Bai2\HeCoSo\obj\Debug\netcoreapp3.1\HeCoSo.pdb
+D:\Haui\C#\Bai2\HeCoSo\obj\Debug\netcoreapp3.1\HeCoSo.genruntimeconfig.cache

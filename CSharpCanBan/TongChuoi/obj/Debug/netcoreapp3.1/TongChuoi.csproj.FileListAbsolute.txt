@@ -1,0 +1,13 @@
+D:\Haui\C#\CSharpCanBan\TongChuoi\bin\Debug\netcoreapp3.1\TongChuoi.exe
+D:\Haui\C#\CSharpCanBan\TongChuoi\bin\Debug\netcoreapp3.1\TongChuoi.deps.json
+D:\Haui\C#\CSharpCanBan\TongChuoi\bin\Debug\netcoreapp3.1\TongChuoi.runtimeconfig.json
+D:\Haui\C#\CSharpCanBan\TongChuoi\bin\Debug\netcoreapp3.1\TongChuoi.runtimeconfig.dev.json
+D:\Haui\C#\CSharpCanBan\TongChuoi\bin\Debug\netcoreapp3.1\TongChuoi.dll
+D:\Haui\C#\CSharpCanBan\TongChuoi\bin\Debug\netcoreapp3.1\TongChuoi.pdb
+D:\Haui\C#\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haui\C#\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.AssemblyInfoInputs.cache
+D:\Haui\C#\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.AssemblyInfo.cs
+D:\Haui\C#\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.csproj.CoreCompileInputs.cache
+D:\Haui\C#\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.dll
+D:\Haui\C#\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.pdb
+D:\Haui\C#\CSharpCanBan\TongChuoi\obj\Debug\netcoreapp3.1\TongChuoi.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Haui\C#\Bai3\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\Haui\C#\Bai3\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\Haui\C#\Bai3\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\Haui\C#\Bai3\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\Haui\C#\Bai3\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Haui\C#\Bai3\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Haui\C#\Bai3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.AssemblyReference.cache
+D:\Haui\C#\Bai3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haui\C#\Bai3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\Haui\C#\Bai3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\Haui\C#\Bai3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Haui\C#\Bai3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Haui\C#\Bai3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Haui\C#\Bai3\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.genruntimeconfig.cache

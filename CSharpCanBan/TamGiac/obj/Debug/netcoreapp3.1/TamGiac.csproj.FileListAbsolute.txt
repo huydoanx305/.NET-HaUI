@@ -1,0 +1,14 @@
+D:\Haui\C#\CSharpCanBan\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.exe
+D:\Haui\C#\CSharpCanBan\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.deps.json
+D:\Haui\C#\CSharpCanBan\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.runtimeconfig.json
+D:\Haui\C#\CSharpCanBan\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.runtimeconfig.dev.json
+D:\Haui\C#\CSharpCanBan\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.dll
+D:\Haui\C#\CSharpCanBan\TamGiac\bin\Debug\netcoreapp3.1\TamGiac.pdb
+D:\Haui\C#\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.csproj.AssemblyReference.cache
+D:\Haui\C#\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haui\C#\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.AssemblyInfoInputs.cache
+D:\Haui\C#\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.AssemblyInfo.cs
+D:\Haui\C#\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.csproj.CoreCompileInputs.cache
+D:\Haui\C#\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.dll
+D:\Haui\C#\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.pdb
+D:\Haui\C#\CSharpCanBan\TamGiac\obj\Debug\netcoreapp3.1\TamGiac.genruntimeconfig.cache
