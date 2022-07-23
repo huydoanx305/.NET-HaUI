@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Haui\\C#\\Bai5\\DoanVanHuy_2020603434_proj52\\TimUSCLN\\TimUSCLN.csproj",
+      "projectUniqueName": "D:\\Haui\\C#\\GiaiBaiTap\\Bai5\\DoanVanHuy_2020603434_proj52\\TimUSCLN\\TimUSCLN.csproj",
       "projectName": "TimUSCLN",
-      "projectPath": "D:\\Haui\\C#\\Bai5\\DoanVanHuy_2020603434_proj52\\TimUSCLN\\TimUSCLN.csproj",
+      "projectPath": "D:\\Haui\\C#\\GiaiBaiTap\\Bai5\\DoanVanHuy_2020603434_proj52\\TimUSCLN\\TimUSCLN.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Haui\\C#\\Bai5\\DoanVanHuy_2020603434_proj52\\TimUSCLN\\obj\\",
+      "outputPath": "D:\\Haui\\C#\\GiaiBaiTap\\Bai5\\DoanVanHuy_2020603434_proj52\\TimUSCLN\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

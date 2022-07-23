@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Haui\\C#\\Bai5\\DoanVanHuy_2020603434_proj52\\DoanVanHuy_2020603434_proj52\\DoanVanHuy_2020603434_proj52.csproj",
+      "projectUniqueName": "D:\\Haui\\C#\\GiaiBaiTap\\Bai5\\DoanVanHuy_2020603434_proj52\\DoanVanHuy_2020603434_proj52\\DoanVanHuy_2020603434_proj52.csproj",
       "projectName": "DoanVanHuy_2020603434_proj52",
-      "projectPath": "D:\\Haui\\C#\\Bai5\\DoanVanHuy_2020603434_proj52\\DoanVanHuy_2020603434_proj52\\DoanVanHuy_2020603434_proj52.csproj",
+      "projectPath": "D:\\Haui\\C#\\GiaiBaiTap\\Bai5\\DoanVanHuy_2020603434_proj52\\DoanVanHuy_2020603434_proj52\\DoanVanHuy_2020603434_proj52.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Haui\\C#\\Bai5\\DoanVanHuy_2020603434_proj52\\DoanVanHuy_2020603434_proj52\\obj\\",
+      "outputPath": "D:\\Haui\\C#\\GiaiBaiTap\\Bai5\\DoanVanHuy_2020603434_proj52\\DoanVanHuy_2020603434_proj52\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

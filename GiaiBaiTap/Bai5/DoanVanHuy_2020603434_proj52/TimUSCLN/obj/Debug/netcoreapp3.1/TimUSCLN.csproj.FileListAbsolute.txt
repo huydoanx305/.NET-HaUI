@@ -1,0 +1,14 @@
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\bin\Debug\netcoreapp3.1\TimUSCLN.exe
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\bin\Debug\netcoreapp3.1\TimUSCLN.deps.json
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\bin\Debug\netcoreapp3.1\TimUSCLN.runtimeconfig.json
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\bin\Debug\netcoreapp3.1\TimUSCLN.runtimeconfig.dev.json
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\bin\Debug\netcoreapp3.1\TimUSCLN.dll
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\bin\Debug\netcoreapp3.1\TimUSCLN.pdb
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\obj\Debug\netcoreapp3.1\TimUSCLN.csproj.AssemblyReference.cache
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\obj\Debug\netcoreapp3.1\TimUSCLN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\obj\Debug\netcoreapp3.1\TimUSCLN.AssemblyInfoInputs.cache
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\obj\Debug\netcoreapp3.1\TimUSCLN.AssemblyInfo.cs
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\obj\Debug\netcoreapp3.1\TimUSCLN.csproj.CoreCompileInputs.cache
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\obj\Debug\netcoreapp3.1\TimUSCLN.dll
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\obj\Debug\netcoreapp3.1\TimUSCLN.pdb
+D:\Haui\C#\GiaiBaiTap\Bai5\DoanVanHuy_2020603434_proj52\TimUSCLN\obj\Debug\netcoreapp3.1\TimUSCLN.genruntimeconfig.cache

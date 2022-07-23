@@ -1,0 +1,14 @@
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\bin\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.exe
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\bin\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.deps.json
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\bin\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.runtimeconfig.json
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\bin\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.runtimeconfig.dev.json
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\bin\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.dll
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\bin\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.pdb
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.csproj.AssemblyReference.cache
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.GeneratedMSBuildEditorConfig.editorconfig
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.AssemblyInfoInputs.cache
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.AssemblyInfo.cs
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.csproj.CoreCompileInputs.cache
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.dll
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.pdb
+D:\Haui\C#\GiaiBaiTap\Bai6\DoanVanHuy_2020603434_proj62\DoanVanHuy_2020603434_proj62\obj\Debug\netcoreapp3.1\DoanVanHuy_2020603434_proj62.genruntimeconfig.cache
