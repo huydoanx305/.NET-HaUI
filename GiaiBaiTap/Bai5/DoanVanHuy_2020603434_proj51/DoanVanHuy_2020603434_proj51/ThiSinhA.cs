@@ -49,7 +49,12 @@ namespace DoanVanHuy_2020603434_proj51
             diemUuTien = Convert.ToDouble(Console.ReadLine());
         }
 
-        public double tongdiem()
+        public void xuatThiSinh()
+        {
+            Console.WriteLine($"{soBaoDanh,5} {hoTen,25} {diaChi,15} {toan,15} {ly,15} {hoa,15} {diemUuTien,15} {tongDiem(),15}");
+        }
+
+        public double tongDiem()
         {
             return Math.Round(toan + ly + hoa + diemUuTien, 3);
         }

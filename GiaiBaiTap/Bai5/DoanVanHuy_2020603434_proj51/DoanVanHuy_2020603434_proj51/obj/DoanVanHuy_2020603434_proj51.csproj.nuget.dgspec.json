@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Haui\\C#\\Bai5\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51.csproj": {}
+    "D:\\Haui\\C#\\GiaiBaiTap\\Bai5\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51.csproj": {}
   },
   "projects": {
-    "D:\\Haui\\C#\\Bai5\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51.csproj": {
+    "D:\\Haui\\C#\\GiaiBaiTap\\Bai5\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Haui\\C#\\Bai5\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51.csproj",
+        "projectUniqueName": "D:\\Haui\\C#\\GiaiBaiTap\\Bai5\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51.csproj",
         "projectName": "DoanVanHuy_2020603434_proj51",
-        "projectPath": "D:\\Haui\\C#\\Bai5\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51.csproj",
+        "projectPath": "D:\\Haui\\C#\\GiaiBaiTap\\Bai5\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51.csproj",
         "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "D:\\Haui\\C#\\Bai5\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51\\obj\\",
+        "outputPath": "D:\\Haui\\C#\\GiaiBaiTap\\Bai5\\DoanVanHuy_2020603434_proj51\\DoanVanHuy_2020603434_proj51\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

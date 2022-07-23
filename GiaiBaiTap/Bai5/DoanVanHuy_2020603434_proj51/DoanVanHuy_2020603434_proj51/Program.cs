@@ -9,7 +9,7 @@ namespace DoanVanHuy_2020603434_proj51
         static List<ThiSinhA> thiSinhs = new List<ThiSinhA>();
         public static void title()
         {
-            Console.WriteLine($"{"SBD",5} {"Họ tên",25} {"Địa Chỉ",15} {"Điểm toán",15} {"Điểm Lý",15} {"Điểm hóa",15} {"Điểm Ưu tiên",15} {"Tổng điểm",15}");
+            Console.WriteLine($"{"SBD",5} {"Họ tên",25} {"Địa chỉ",15} {"Điểm toán",15} {"Điểm lý",15} {"Điểm hóa",15} {"Điểm ưu tiên",15} {"Tổng điểm",15}");
         }
 
         public static void addThiSinh()
@@ -22,49 +22,25 @@ namespace DoanVanHuy_2020603434_proj51
         public static void show()
         {
             title();
-            foreach(ThiSinhA item in thiSinhs)
-            {
-                Console.WriteLine($"{item.soBaoDanh,5} {item.hoTen,25} {item.diaChi,15} {item.toan,15} {item.ly,15} {item.hoa,15} {item.diemUuTien,15} {item.tongdiem(),15}");
-            }
+            thiSinhs.ForEach(elem => elem.xuatThiSinh());
         }
-
-/*        public static void showByTongDiem(double tongDiem)
-        {
-            foreach (ThiSinhA item in thiSinhs)
-            {
-                if(item.tongdiem() >= tongDiem)
-                {
-                    Console.WriteLine($"{item.soBaoDanh,5} {item.hoTen,10} {item.diaChi,20} {item.toan,20} {item.ly,10} {item.hoa,10} {item.diemUuTien,10} {item.tongdiem(),10}");
-                }
-            }
-        }
-
-        public static void showByDiaChi(String diaChi)
-        {
-            foreach (ThiSinhA item in thiSinhs)
-            {
-                if (item.diaChi.Contains(diaChi) == true)
-                {
-                    Console.WriteLine($"{item.soBaoDanh,5} {item.hoTen,10} {item.diaChi,20} {item.toan,20} {item.ly,10} {item.hoa,10} {item.diemUuTien,10} {item.tongdiem(),10}");
-                }
-            }
-        }*/
 
         public static void showByKey(String key, double tongDiem, String diaChi, int soBaoDanh)
         {
-            foreach (ThiSinhA item in thiSinhs)
+            title();
+            foreach (ThiSinhA thiSinh in thiSinhs)
             {
-                if (key == "SBD" && item.soBaoDanh == soBaoDanh)
+                if (key == "tongdiem" && thiSinh.tongDiem() >= tongDiem)
                 {
-                    Console.WriteLine($"{item.soBaoDanh,5} {item.hoTen,25} {item.diaChi,15} {item.toan,15} {item.ly,15} {item.hoa,15} {item.diemUuTien,15} {item.tongdiem(),15}");
+                    thiSinh.xuatThiSinh();
                 }
-                else if (key == "tongdiem" && item.tongdiem() >= tongDiem)
+                else if (key == "diachi" && thiSinh.diaChi.Equals(diaChi))
                 {
-                    Console.WriteLine($"{item.soBaoDanh,5} {item.hoTen,25} {item.diaChi,15} {item.toan,15} {item.ly,15} {item.hoa,15} {item.diemUuTien,15} {item.tongdiem(),15}");
+                    thiSinh.xuatThiSinh();
                 }
-                else if(key == "diachi" && item.diaChi == diaChi)
+                else if (key == "SBD" && thiSinh.soBaoDanh == soBaoDanh)
                 {
-                    Console.WriteLine($"{item.soBaoDanh,5} {item.hoTen,25} {item.diaChi,15} {item.toan,15} {item.ly,15} {item.hoa,15} {item.diemUuTien,15} {item.tongdiem(),15}");
+                    thiSinh.xuatThiSinh();
                 }
             }
         }
