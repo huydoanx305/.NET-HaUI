@@ -142,6 +142,8 @@ namespace DoanVanHuy_2020603434_proj62
                                 return -1;
                             return 0;
                         });
+                        // Trả về giá trị dương thì swap
+                        // Trả về giá trị 0, âm thì không swap
                         title();
                         vehicles.ForEach(elem => elem.Output());
                         break;
