@@ -1,0 +1,15 @@
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\bin\Debug\Bai9.3.exe.config
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\bin\Debug\Bai9.3.exe
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\bin\Debug\Bai9.3.pdb
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\obj\Debug\Bai9.3.csproj.AssemblyReference.cache
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\obj\Debug\MainWindow.g.cs
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\obj\Debug\App.g.cs
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\obj\Debug\Bai9.3_MarkupCompile.cache
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\obj\Debug\Bai9.3_MarkupCompile.lref
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\obj\Debug\MainWindow.baml
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\obj\Debug\Bai9.3.g.resources
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\obj\Debug\Bai9._3.Properties.Resources.resources
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\obj\Debug\Bai9.3.csproj.GenerateResource.cache
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\obj\Debug\Bai9.3.csproj.CoreCompileInputs.cache
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\obj\Debug\Bai9.3.exe
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.3\Bai9.3\obj\Debug\Bai9.3.pdb

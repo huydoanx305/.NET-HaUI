@@ -1,0 +1,34 @@
+﻿<Window x:Class="De4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:De4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Loaded="Window_Loaded"
+        >
+    <Grid>
+        <Label Content="Mã sách" HorizontalAlignment="Left" Margin="141,87,0,0" VerticalAlignment="Top" Width="106"/>
+        <TextBox HorizontalAlignment="Left" Margin="238,91,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Tên sách" HorizontalAlignment="Left" Margin="141,130,0,0" VerticalAlignment="Top" Width="106"/>
+        <TextBox HorizontalAlignment="Left" Margin="238,138,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="162"/>
+        <Label Content="Nhà xuất bản" HorizontalAlignment="Left" Margin="141,173,0,0" VerticalAlignment="Top" Width="106"/>
+        <ComboBox HorizontalAlignment="Left" Margin="238,177,0,0" VerticalAlignment="Top" Width="162">
+
+        </ComboBox>
+        <Label Content="Số trang" HorizontalAlignment="Left" Margin="141,217,0,0" VerticalAlignment="Top" Width="106"/>
+        <TextBox HorizontalAlignment="Left" Margin="238,225,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Thêm" HorizontalAlignment="Left" Margin="496,85,0,0" VerticalAlignment="Top" Height="37" Width="69"/>
+        <Button Content="Tìm" HorizontalAlignment="Left" Margin="496,138,0,0" VerticalAlignment="Top" Height="37" Width="69"/>
+        <DataGrid x:Name="dataSach" Margin="80,258,101,23" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="80" Header="Mã sách" Binding="{Binding Masach}"></DataGridTextColumn>
+                <DataGridTextColumn Width="150" Header="Tên sách" Binding="{Binding Tensach}"></DataGridTextColumn>
+                <DataGridTextColumn Width="150" Header="Nhà xuất bản" Binding="{Binding Manxb}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Số trang" Binding="{Binding Sotrang}"></DataGridTextColumn>
+                <DataGridTextColumn Width="160" Header="Thành tiền"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

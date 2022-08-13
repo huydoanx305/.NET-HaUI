@@ -1,0 +1,24 @@
+﻿<Window x:Class="DE01.Window2"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DE01"
+        mc:Ignorable="d"
+        Title="Window2" Height="450" Width="800">
+    <Grid >
+        <Label Content="Thông tin nhân viên" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="286,30,0,0" FontSize="30" Foreground="#FF0600FF" FontFamily="Times New Roman" FontWeight="Bold"/>
+        <Label Content="Họ tên nhân viên" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="263,77,0,0"/>
+        <TextBox x:Name="hoten1" HorizontalAlignment="Left" Height="23" Margin="376,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="191" />
+        <Label Content="Loại nhân viên" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="264,113,0,0"/>
+        <ComboBox Name="loainv1" HorizontalAlignment="Left" Margin="377,116,0,0" VerticalAlignment="Top" Width="142" SelectedIndex="0">
+            <ComboBoxItem>Cơ hữu</ComboBoxItem>
+            <ComboBoxItem>Hợp đồng</ComboBoxItem>
+            <ComboBoxItem>Cộng tác viên</ComboBoxItem>
+        </ComboBox>
+        <Label Content="Ngày sinh" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="265,149,0,0" RenderTransformOrigin="0.758,0.555"/>
+        <DatePicker Name="ngaysinh1" HorizontalAlignment="Left" Margin="378,152,0,0" VerticalAlignment="Top" Width="191"/>
+        <Label Content="Số tiền bán hàng" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="267,186,0,0"/>
+        <TextBox x:Name="tienban1" HorizontalAlignment="Left" Height="23" Margin="380,189,0,0" VerticalAlignment="Top" Width="142" />
+    </Grid>
+</Window>
