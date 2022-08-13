@@ -7,43 +7,38 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <ListBox x:Name="list" HorizontalAlignment="Left" Height="208" VerticalAlignment="Top" Width="244" Margin="60,35,0,0" SelectionChanged="ListBox_SelectionChanged">
-            <ListBoxItem>
+        <ListBox x:Name="listBox" HorizontalAlignment="Left" Height="208" VerticalAlignment="Top" Width="244" Margin="60,35,0,0">
+            <CheckBox Name="check1">
                 <StackPanel Orientation="Horizontal">
-                    <CheckBox x:Name="check"/>
                     <Image Source="https://avatars.githubusercontent.com/u/92317282?v=4" Height="31" Width="32"/>
                     <Label>Nước cam tươi</Label>
                 </StackPanel>
-            </ListBoxItem>
-            <ListBoxItem>
+            </CheckBox>
+            <CheckBox Name="check2">
                 <StackPanel Orientation="Horizontal">
-                    <CheckBox x:Name="check"/>
                     <Image Source="https://avatars.githubusercontent.com/u/92317282?v=4" Height="31" Width="32"/>
                     <Label>Nước kiwi ép</Label>
                 </StackPanel>
-            </ListBoxItem>
-            <ListBoxItem>
+            </CheckBox>
+            <CheckBox Name="check3">
                 <StackPanel Orientation="Horizontal">
-                    <CheckBox x:Name="check"/>
                     <Image Source="https://avatars.githubusercontent.com/u/92317282?v=4" Height="31" Width="32"/>
                     <Label>Nước soài ép</Label>
                 </StackPanel>
-            </ListBoxItem>
-            <ListBoxItem>
+            </CheckBox>
+            <CheckBox Name="check4">
                 <StackPanel Orientation="Horizontal">
-                    <CheckBox x:Name="check"/>
                     <Image Source="https://avatars.githubusercontent.com/u/92317282?v=4" Height="31" Width="32"/>
                     <Label>Sữa tươi tiệt trùng</Label>
                 </StackPanel>
-            </ListBoxItem>
-            <ListBoxItem>
+            </CheckBox>
+            <CheckBox Name="check5">
                 <StackPanel Orientation="Horizontal">
-                    <CheckBox x:Name="check"/>
                     <Image Source="https://avatars.githubusercontent.com/u/92317282?v=4" Height="31" Width="32"/>
                     <Label>Cà phê Espresso</Label>
                 </StackPanel>
-            </ListBoxItem>
-            <Button Content="Button" Width="75" Margin="75, 0" Click="Button_Click"/>
+            </CheckBox>
+            <Button Content="Đặt đồ uống" Width="75" Margin="75, 0" Click="Button_Click"/>
         </ListBox>
 
     </Grid>

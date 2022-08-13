@@ -12,3 +12,4 @@ D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.5\Bai9.5\obj\Debug\Bai9.5.csproj.GenerateResourc
 D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.5\Bai9.5\obj\Debug\Bai9.5.csproj.CoreCompileInputs.cache
 D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.5\Bai9.5\obj\Debug\Bai9.5.exe
 D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.5\Bai9.5\obj\Debug\Bai9.5.pdb
+D:\Haui\C#\GiaiBaiTap\Bai9\Bai9.5\Bai9.5\obj\Debug\Bai9.5.csproj.AssemblyReference.cache

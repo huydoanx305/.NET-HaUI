@@ -27,12 +27,44 @@ namespace Bai9._5
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
+            int dem = 0;
+            string douong = "";
+            if (check1.IsChecked == true)
+            {
+                dem++;
+                douong += "Nước cam tươi; ";
+            }
+            if (check2.IsChecked == true)
+            {
+                dem++;
+                douong += "Nước kiwi ép; ";
+            }
+            if (check3.IsChecked == true)
+            {
+                dem++;
+                douong += "Nước xoài ép; ";
+            }
+            if (check4.IsChecked == true)
+            {
+                dem++;
+                douong += "Sữa tươi tiệt trùng; ";
+            }
+            if (check5.IsChecked == true)
+            {
+                dem++;
+                douong += "Cà phê Espresso";
+            }
+            if (dem == 0)
+            {
+                MessageBox.Show("Bạn chưa chọn đồ uống nào");
+            }
+            else
+            {
+                String result = "Bạn đã chọn " + douong;
+                MessageBox.Show(result);
+            }
 
         }
-
-        private void ListBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
-        {
-            
-        }
+        
     }
 }
