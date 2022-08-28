@@ -8,7 +8,7 @@ USE QuanLyBenhNhanDB;
 GO
 CREATE TABLE Khoa(
 	MaKhoa int primary key,
-	BenhNhan nvarchar(50)
+	TenKhoa nvarchar(50)
 );
 GO
 INSERT INTO Khoa VALUES
@@ -34,3 +34,5 @@ INSERT INTO BenhNhan VALUES
 	(4,N'Trương Phi',N'Bắc Ninh',2,400000,4),
 	(5,N'Khổng Minh',N'Thanh Hóa',1,200000,1),
 	(6,N'Điêu Thuyền',N'Bình Dương',2,400000,1);
+
+	select * from BenhNhan
