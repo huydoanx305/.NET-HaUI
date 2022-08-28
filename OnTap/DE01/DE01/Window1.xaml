@@ -1,0 +1,30 @@
+﻿<Window x:Class="DE01.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DE01"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <DataGrid Name="listBN" Margin="34,131,10,131" 
+                  AutoGenerateColumns="False" 
+                  AlternatingRowBackground="AntiqueWhite"
+                  CanUserAddRows="False" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="60" Header="Mã BN" Binding="{Binding MaBn}"></DataGridTextColumn>
+                <DataGridTextColumn Width="150" Header="Họ tên" Binding="{Binding HoTen}"></DataGridTextColumn>
+                <DataGridTextColumn Width="60" Header="Mã khoa" Binding="{Binding MaKhoa}"></DataGridTextColumn>
+                <DataGridTextColumn Width="150" Header="Địa chỉ" Binding="{Binding DiaChi}"></DataGridTextColumn>
+                <DataGridTextColumn Width="110" Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}"></DataGridTextColumn>
+                <DataGridTextColumn Width="150" Header="Viện phí" Binding="{Binding VienPhi}"></DataGridTextColumn>
+            </DataGrid.Columns>
+            <DataGrid.Resources>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="FontWeight" Value="Bold"></Setter>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+    </Grid>
+</Window>

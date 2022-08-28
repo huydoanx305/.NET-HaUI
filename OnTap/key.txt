@@ -1,0 +1,30 @@
+
+Scaffold-DbContext "" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+Loaded="Window_Loaded"
+
+<DataGrid x:Name="dataSach" AutoGenerateColumns="False">
+
+<DataGrid Name="listBN" Margin="25,197,19,65" 
+                  AutoGenerateColumns="False" 
+                  AlternatingRowBackground="AntiqueWhite"
+                  CanUserAddRows="False" SelectionChanged="listBN_SelectionChanged">
+	<DataGrid.Columns>
+		<DataGridTextColumn Width="60" Header="Mã BN" Binding="{Binding MaBn}"></DataGridTextColumn>
+		<DataGridTextColumn Width="150" Header="Họ tên" Binding="{Binding HoTen}"></DataGridTextColumn>
+		<DataGridTextColumn Width="60" Header="Mã khoa" Binding="{Binding MaKhoa}"></DataGridTextColumn>
+		<DataGridTextColumn Width="150" Header="Địa chỉ" Binding="{Binding DiaChi}"></DataGridTextColumn>
+		<DataGridTextColumn Width="110" Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}"></DataGridTextColumn>
+		<DataGridTextColumn Width="150" Header="Viện phí" Binding="{Binding VienPhi}"></DataGridTextColumn>
+	</DataGrid.Columns>
+      <DataGrid.Resources>
+      	<Style TargetType="DataGridColumnHeader">
+            	<Setter Property="FontWeight" Value="Bold"></Setter>
+            	<Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+      	</Style>
+      </DataGrid.Resources>
+</DataGrid>
+
+
+
+

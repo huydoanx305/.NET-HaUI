@@ -1,0 +1,65 @@
+﻿<Window x:Class="DE01.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DE01"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        Loaded="Window_Loaded"
+        >
+    <Grid>
+        <Label Content="Mã bệnh nhân:" HorizontalAlignment="Left" Margin="160,22,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="mabn" HorizontalAlignment="Left" Margin="280,21,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="193" Height="26" FontFamily="Times New Roman" Foreground="#FF003AFF"/>
+        <Label Content="Họ tên:" HorizontalAlignment="Left" Margin="160,54,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="hoten" HorizontalAlignment="Left" Margin="280,54,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="193" Height="24" FontFamily="Times New Roman" Foreground="#FF003AFF"/>
+        <Label Content="Địa chỉ:" HorizontalAlignment="Left" Margin="160,85,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="diachi" HorizontalAlignment="Left" Margin="280,85,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="193" Height="24" FontFamily="Times New Roman" Foreground="#FF003AFF"/>
+        <Label Content="Số ngày nằm viện:" HorizontalAlignment="Left" Margin="160,118,0,0" VerticalAlignment="Top"/>
+        <TextBox Name="songaynv" HorizontalAlignment="Left" Margin="280,117,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="193" Height="25" FontFamily="Times New Roman" Foreground="#FF003AFF"/>
+        <Label Content="Khoa khám:" HorizontalAlignment="Left" Margin="160,150,0,0" VerticalAlignment="Top"/>
+        <ComboBox Name="khoa" HorizontalAlignment="Left" Margin="280,150,0,0" VerticalAlignment="Top" Width="193" Height="24" FontFamily="Times New Roman" Foreground="#FF003AFF">
+                
+        </ComboBox>
+        <DataGrid Name="listBN" Margin="25,197,19,65" 
+                  AutoGenerateColumns="False" 
+                  AlternatingRowBackground="AntiqueWhite"
+                  CanUserAddRows="False" SelectionChanged="listBN_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Width="60" Header="Mã BN" Binding="{Binding MaBn}"></DataGridTextColumn>
+                <DataGridTextColumn Width="150" Header="Họ tên" Binding="{Binding HoTen}"></DataGridTextColumn>
+                <DataGridTextColumn Width="60" Header="Mã khoa" Binding="{Binding MaKhoa}"></DataGridTextColumn>
+                <DataGridTextColumn Width="150" Header="Địa chỉ" Binding="{Binding DiaChi}"></DataGridTextColumn>
+                <DataGridTextColumn Width="110" Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}"></DataGridTextColumn>
+                <DataGridTextColumn Width="150" Header="Viện phí" Binding="{Binding VienPhi}"></DataGridTextColumn>
+            </DataGrid.Columns>
+            <DataGrid.Resources>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="FontWeight" Value="Bold"></Setter>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+
+        <Button Content="Thêm" HorizontalAlignment="Left" Margin="253,369,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="Them_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Fill="Aqua"/>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Content="Tìm" HorizontalAlignment="Left" Margin="498,369,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="Tim_Click">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Fill="Aqua"/>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+    </Grid>
+</Window>
