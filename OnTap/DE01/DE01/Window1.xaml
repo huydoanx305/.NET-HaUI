@@ -12,12 +12,12 @@
                   AlternatingRowBackground="AntiqueWhite"
                   CanUserAddRows="False" >
             <DataGrid.Columns>
-                <DataGridTextColumn Width="60" Header="Mã BN" Binding="{Binding MaBn}"></DataGridTextColumn>
-                <DataGridTextColumn Width="150" Header="Họ tên" Binding="{Binding HoTen}"></DataGridTextColumn>
-                <DataGridTextColumn Width="60" Header="Mã khoa" Binding="{Binding MaKhoa}"></DataGridTextColumn>
-                <DataGridTextColumn Width="150" Header="Địa chỉ" Binding="{Binding DiaChi}"></DataGridTextColumn>
-                <DataGridTextColumn Width="110" Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}"></DataGridTextColumn>
-                <DataGridTextColumn Width="150" Header="Viện phí" Binding="{Binding VienPhi}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Mã BN" Binding="{Binding MaBn}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding HoTen}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Mã khoa" Binding="{Binding MaKhoa}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Địa chỉ" Binding="{Binding DiaChi}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}"></DataGridTextColumn>
+                <DataGridTextColumn Width="*" Header="Viện phí" Binding="{Binding VienPhi}"></DataGridTextColumn>
             </DataGrid.Columns>
             <DataGrid.Resources>
                 <Style TargetType="DataGridColumnHeader">

@@ -19,19 +19,19 @@
         <TextBox Name="songaynv" HorizontalAlignment="Left" Margin="280,117,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="193" Height="25" FontFamily="Times New Roman" Foreground="#FF003AFF"/>
         <Label Content="Khoa khám:" HorizontalAlignment="Left" Margin="160,150,0,0" VerticalAlignment="Top"/>
         <ComboBox Name="khoa" HorizontalAlignment="Left" Margin="280,150,0,0" VerticalAlignment="Top" Width="193" Height="24" FontFamily="Times New Roman" Foreground="#FF003AFF">
-                
+
         </ComboBox>
         <DataGrid Name="listBN" Margin="25,197,19,65" 
                   AutoGenerateColumns="False" 
                   AlternatingRowBackground="AntiqueWhite"
                   CanUserAddRows="False" SelectionChanged="listBN_SelectionChanged">
             <DataGrid.Columns>
-                <DataGridTextColumn Width="60" Header="Mã BN" Binding="{Binding MaBn}"></DataGridTextColumn>
-                <DataGridTextColumn Width="150" Header="Họ tên" Binding="{Binding HoTen}"></DataGridTextColumn>
-                <DataGridTextColumn Width="60" Header="Mã khoa" Binding="{Binding MaKhoa}"></DataGridTextColumn>
-                <DataGridTextColumn Width="150" Header="Địa chỉ" Binding="{Binding DiaChi}"></DataGridTextColumn>
-                <DataGridTextColumn Width="110" Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}"></DataGridTextColumn>
-                <DataGridTextColumn Width="150" Header="Viện phí" Binding="{Binding VienPhi}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Mã BN" Binding="{Binding MaBn}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Họ tên" Binding="{Binding HoTen}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Mã khoa" Binding="{Binding MaKhoa}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Địa chỉ" Binding="{Binding DiaChi}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}"></DataGridTextColumn>
+                <DataGridTextColumn Width="*" Header="Viện phí" Binding="{Binding VP}"></DataGridTextColumn>
             </DataGrid.Columns>
             <DataGrid.Resources>
                 <Style TargetType="DataGridColumnHeader">
@@ -41,7 +41,7 @@
             </DataGrid.Resources>
         </DataGrid>
 
-        <Button Content="Thêm" HorizontalAlignment="Left" Margin="253,369,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="Them_Click">
+        <Button Click="Them_Click" Content="Thêm" HorizontalAlignment="Left" Margin="35,374,0,0" VerticalAlignment="Top" Width="100" Height="40" >
             <Button.Template>
                 <ControlTemplate TargetType="Button">
                     <Grid>
@@ -51,7 +51,37 @@
                 </ControlTemplate>
             </Button.Template>
         </Button>
-        <Button Content="Tìm" HorizontalAlignment="Left" Margin="498,369,0,0" VerticalAlignment="Top" Width="100" Height="40" Click="Tim_Click">
+        <Button Click="Sua_Click" Content="Sửa" HorizontalAlignment="Left" Margin="184,374,0,0" VerticalAlignment="Top" Width="100" Height="40" >
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Fill="Aqua"/>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Click="Xoa_Click" Content="Xóa" HorizontalAlignment="Center" Margin="0,374,0,0" VerticalAlignment="Top" Width="100" Height="40">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Fill="Aqua"/>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Click="Tim_Click" Content="Tìm" HorizontalAlignment="Left" Margin="516,374,0,0" VerticalAlignment="Top" Width="100" Height="40">
+            <Button.Template>
+                <ControlTemplate TargetType="Button">
+                    <Grid>
+                        <Ellipse Fill="Aqua"/>
+                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Button Click="ThongKe_Click" Content="Thống kê" HorizontalAlignment="Left" Margin="669,374,0,0" VerticalAlignment="Top" Width="100" Height="40" >
             <Button.Template>
                 <ControlTemplate TargetType="Button">
                     <Grid>

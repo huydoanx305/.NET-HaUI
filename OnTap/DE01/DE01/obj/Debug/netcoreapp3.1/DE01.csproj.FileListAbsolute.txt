@@ -60,3 +60,5 @@ D:\Haui\C#\OnTap\DE01\DE01\obj\Debug\netcoreapp3.1\DE01.pdb
 D:\Haui\C#\OnTap\DE01\DE01\obj\Debug\netcoreapp3.1\DE01.genruntimeconfig.cache
 D:\Haui\C#\OnTap\DE01\DE01\obj\Debug\netcoreapp3.1\Window1.g.cs
 D:\Haui\C#\OnTap\DE01\DE01\obj\Debug\netcoreapp3.1\Window1.baml
+D:\Haui\C#\OnTap\DE01\DE01\obj\Debug\netcoreapp3.1\WindowTK.g.cs
+D:\Haui\C#\OnTap\DE01\DE01\obj\Debug\netcoreapp3.1\WindowTK.baml

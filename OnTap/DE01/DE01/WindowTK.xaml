@@ -1,0 +1,41 @@
+﻿<Window x:Class="DE01.WindowTK"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DE01"
+        mc:Ignorable="d"
+        Title="WindowTK" Height="450" Width="800">
+    <Grid Margin="0,156,0,89">
+        <DataGrid x:Name="listBN" Margin="53,-144,28,136" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã bệnh nhân" Binding="{Binding MaBn}"/>
+                <DataGridTextColumn Header="Họ Tên" Binding="{Binding HoTen}"/>
+                <DataGridTextColumn Header="Địa chỉ" Binding="{Binding DiaChi}"/>
+                <DataGridTextColumn Header="Tên Khoa" Binding="{Binding TenKhoa}"/>
+                <DataGridTextColumn Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}"/>
+                <DataGridTextColumn Width="*" Header="Viện phí" Binding="{Binding VienPhi}"/>
+            </DataGrid.Columns>
+            <DataGrid.Resources>
+                <Style TargetType="DataGridColumnHeader"> 
+                    <Setter Property="FontWeight" Value="Bold"></Setter>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+
+        <DataGrid x:Name="listTK" Margin="53,77,477,-59" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã khoa" Binding="{Binding MaKhoa}"/>
+                <DataGridTextColumn Header="Tên khoa" Binding="{Binding TenKhoa}"/>
+                <DataGridTextColumn Width="*" Header="Số con vợ" Binding="{Binding SoNguoi}"/>
+            </DataGrid.Columns>
+            <DataGrid.Resources>
+                <Style TargetType="DataGridColumnHeader">
+                    <Setter Property="FontWeight" Value="Bold"></Setter>
+                    <Setter Property="HorizontalContentAlignment" Value="Center"></Setter>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+    </Grid>
+</Window>
