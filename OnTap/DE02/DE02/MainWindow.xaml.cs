@@ -71,42 +71,24 @@ namespace DE02
             else
             {
                 int maSP;
-                if(!Regex.IsMatch(masp.Text, @"\d+"))
+                if (!int.TryParse(masp.Text, out maSP))
                 {
-                    mess += "\nMã sản phẩm phải là số!";
-                } else
-                {
-                    if (!int.TryParse(masp.Text, out maSP))
-                    {
-                        mess += "\nMã sản phẩm phải là số nguyên!";
-                    }
+                    mess += "\nMã sản phẩm phải là số nguyên!";
                 }
 
-                if (!Regex.IsMatch(dongia.Text, @"\d+"))
+                if(double.Parse(dongia.Text) <= 0)
                 {
-                    mess += "\nĐơn giá phải là số!";
-                } else
-                {
-                    if(double.Parse(dongia.Text) <= 0)
-                    {
-                        mess += "\nĐơn giá phải > 0!";
-                    }
+                    mess += "\nĐơn giá phải > 0!";
                 }
 
-                if (!Regex.IsMatch(soluongban.Text, @"\d+"))
+                int soLuongBan;
+                if (!int.TryParse(soluongban.Text, out soLuongBan))
                 {
-                    mess += "\nSố lượng bán phải là số!";
-                } else
+                    mess += "\nSố lượng bán phải là số nguyên!";
+                }
+                else if (soLuongBan < 1)
                 {
-                    int soLuongBan;
-                    if(!int.TryParse(soluongban.Text, out soLuongBan))
-                    {
-                        mess += "\nSố lượng bán phải là số nguyên!";
-                    }
-                    if (soLuongBan < 1)
-                    {
-                        mess += "\nSố lượng bán phải lớn hơn 0!";
-                    }
+                    mess += "\nSố lượng bán phải lớn hơn 0!";
                 }
             }
 

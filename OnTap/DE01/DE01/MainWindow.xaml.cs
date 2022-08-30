@@ -103,32 +103,21 @@ namespace DE01
             } 
             else
             {
-                if(!Regex.IsMatch(mabn.Text, @"\d+"))
+                
+                int maBn;
+                if (!int.TryParse(mabn.Text, out maBn))
                 {
-                    mess += "\nMã bệnh nhân phải là số!";
-                } else
-                {
-                    int maBn;
-                    if (!int.TryParse(mabn.Text, out maBn))
-                    {
-                        mess += "\nMã bn phải là kiểu số nguyên!";
-                    }
+                    mess += "\nMã bn phải là kiểu số nguyên!";
                 }
                 
-                if(!Regex.IsMatch(songaynv.Text, @"\d+"))
+                int soNgayNamVien;
+                if (!int.TryParse(songaynv.Text, out soNgayNamVien))
                 {
-                    mess += "\nSố ngày nằm viện phải là số!";
-                } else
+                    mess += "\nSố ngày phải là số nguyên!";
+                }
+                else if (soNgayNamVien < 1)
                 {
-                    int soNgayNamVien;
-                    if (!int.TryParse(songaynv.Text, out soNgayNamVien))
-                    {
-                        mess += "\nSố ngày phải là số nguyên!";
-                    }
-                    if (soNgayNamVien < 1)
-                    {
-                        mess += "\nSố ngày phải lớn hơn 0!";
-                    }
+                    mess += "\nSố ngày phải lớn hơn 0!";
                 }
             }
             if (!mess.Equals(""))
