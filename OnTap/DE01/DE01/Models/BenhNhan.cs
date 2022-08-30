@@ -17,12 +17,5 @@ namespace DE01.Models
 
         public virtual Khoa MaKhoaNavigation { get; set; }
 
-        public string vienPhi()
-        {
-            CultureInfo cul = CultureInfo.GetCultureInfo("vi-VN");
-            int a = (int)SoNgayNamVien * 200000;
-            string b = int.Parse(a.ToString()).ToString("#,###", cul.NumberFormat);
-            return b;
-        }
     }
 }

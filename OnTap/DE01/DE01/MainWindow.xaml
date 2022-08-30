@@ -21,7 +21,7 @@
         <ComboBox Name="khoa" HorizontalAlignment="Left" Margin="280,150,0,0" VerticalAlignment="Top" Width="193" Height="24" FontFamily="Times New Roman" Foreground="#FF003AFF">
 
         </ComboBox>
-        <DataGrid Name="listBN" Margin="25,197,19,65" 
+        <DataGrid Name="listBN" Margin="85,197,81,65" 
                   AutoGenerateColumns="False" 
                   AlternatingRowBackground="AntiqueWhite"
                   CanUserAddRows="False" SelectionChanged="listBN_SelectionChanged">
@@ -31,7 +31,7 @@
                 <DataGridTextColumn Header="Mã khoa" Binding="{Binding MaKhoa}"></DataGridTextColumn>
                 <DataGridTextColumn Header="Địa chỉ" Binding="{Binding DiaChi}"></DataGridTextColumn>
                 <DataGridTextColumn Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}"></DataGridTextColumn>
-                <DataGridTextColumn Width="*" Header="Viện phí" Binding="{Binding VP}"></DataGridTextColumn>
+                <DataGridTextColumn Width="*" Header="Viện phí" Binding="{Binding VienPhi, StringFormat='\{0:n0\}'}" FontWeight="Bold"></DataGridTextColumn>
             </DataGrid.Columns>
             <DataGrid.Resources>
                 <Style TargetType="DataGridColumnHeader">

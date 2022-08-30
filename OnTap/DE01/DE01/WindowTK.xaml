@@ -14,7 +14,7 @@
                 <DataGridTextColumn Header="Địa chỉ" Binding="{Binding DiaChi}"/>
                 <DataGridTextColumn Header="Tên Khoa" Binding="{Binding TenKhoa}"/>
                 <DataGridTextColumn Header="Số ngày nằm viện" Binding="{Binding SoNgayNamVien}"/>
-                <DataGridTextColumn Width="*" Header="Viện phí" Binding="{Binding VienPhi}"/>
+                <DataGridTextColumn Width="*" Header="Viện phí" Binding="{Binding VienPhi, StringFormat='\{0:n0\}'}" FontWeight="Bold"/>
             </DataGrid.Columns>
             <DataGrid.Resources>
                 <Style TargetType="DataGridColumnHeader"> 

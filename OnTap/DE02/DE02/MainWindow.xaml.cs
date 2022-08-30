@@ -47,7 +47,7 @@ namespace DE02
                             sp.DonGia,
                             sp.SoLuongBan,
                             sp.MaNhomHang,
-                            TienBan = sp.tienBan()
+                            TienBan = sp.SoLuongBan * sp.DonGia
                         };
             listSP.ItemsSource = query.ToList();
         }
@@ -174,7 +174,7 @@ namespace DE02
                             sp.DonGia,
                             sp.SoLuongBan,
                             sp.MaNhomHang,
-                            TienBan = sp.tienBan()
+                            TienBan = sp.SoLuongBan * sp.DonGia
                         };
             Window1 window1 = new Window1();
             window1.listSP.ItemsSource = query.ToList();

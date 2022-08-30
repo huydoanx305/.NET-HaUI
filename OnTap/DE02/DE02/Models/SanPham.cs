@@ -16,13 +16,5 @@ namespace DE02.Models
         public int? MaNhomHang { get; set; }
 
         public virtual NhomHang MaNhomHangNavigation { get; set; }
-
-        public string tienBan()
-        {
-            CultureInfo cul = CultureInfo.GetCultureInfo("vi-VN");
-            double a = (double)(DonGia * SoLuongBan);
-            string b = long.Parse(a.ToString()).ToString("#,###", cul.NumberFormat);
-            return b;
-        }
     }
 }

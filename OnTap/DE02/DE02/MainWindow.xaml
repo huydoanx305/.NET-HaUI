@@ -20,7 +20,7 @@
         <TextBox Name="dongia" HorizontalAlignment="Left" Margin="311,90,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="207" Height="26"/>
         <TextBox Name="soluongban" HorizontalAlignment="Left" Margin="311,130,0,0" Text="" TextWrapping="Wrap" VerticalAlignment="Top" Width="207" Height="26"/>
         <ComboBox Name="nhomhang" HorizontalAlignment="Left" Margin="311,169,0,0" VerticalAlignment="Top" Width="207" Height="27"/>
-        <DataGrid Name="listSP" Margin="29,207,29,70" SelectionChanged="listSP_SelectionChanged"
+        <DataGrid Name="listSP" Margin="83,207,70,70" SelectionChanged="listSP_SelectionChanged"
                   AutoGenerateColumns="False">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="Mã SP" Binding="{Binding MaSp}"/>
@@ -28,7 +28,7 @@
                 <DataGridTextColumn Header="Đơn giá" Binding="{Binding DonGia}"/>
                 <DataGridTextColumn Header="Số lượng bán" Binding="{Binding SoLuongBan}"/>
                 <DataGridTextColumn Header="Nhóm hàng" Binding="{Binding MaNhomHang}"/>
-                <DataGridTextColumn Width="*" Header="Tiền bán" Binding="{Binding TienBan}"/>
+                <DataGridTextColumn Width="*" Header="Tiền bán" Binding="{Binding TienBan, StringFormat='\{0:n0\}'}" FontWeight="Bold"/>
             </DataGrid.Columns>
             <DataGrid.Resources>
                 <Style TargetType="DataGridColumnHeader">

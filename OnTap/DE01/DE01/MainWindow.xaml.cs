@@ -47,7 +47,7 @@ namespace DE01
                             bn.MaKhoa,
                             bn.DiaChi,
                             bn.SoNgayNamVien,
-                            VP = bn.vienPhi()
+                            VienPhi = bn.SoNgayNamVien * 200000
                         };
             listBN.ItemsSource = query.ToList();
         }
@@ -152,7 +152,7 @@ namespace DE01
                             bn.MaKhoa,
                             bn.DiaChi,
                             bn.SoNgayNamVien,
-                            VienPhi = bn.vienPhi()
+                            VienPhi = bn.SoNgayNamVien * 200000
                         };
             window1.listBN.ItemsSource = query.ToList();
             window1.Show();
@@ -240,7 +240,7 @@ namespace DE01
                             bn.DiaChi,
                             k.TenKhoa,
                             bn.SoNgayNamVien,
-                            VienPhi = bn.vienPhi()
+                            VienPhi = bn.SoNgayNamVien * 200000
                         };
             WindowTK windowTK = new WindowTK();
             windowTK.listBN.ItemsSource = query.ToList();
