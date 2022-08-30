@@ -9,6 +9,8 @@ Loaded="Window_Loaded"
 		 SelectionChanged="listBN_SelectionChanged">
 </DataGrid>
 
+StringFormat='\{0:n0\}'
+
 <Button Content="Button" Height="43" Width="89">
 	<Button.Resources>
 		<Style TargetType="Border">
