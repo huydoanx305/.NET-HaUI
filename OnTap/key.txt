@@ -1,4 +1,3 @@
-
 Scaffold-DbContext "..." Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
 
 Loaded="Window_Loaded"
@@ -10,15 +9,12 @@ Loaded="Window_Loaded"
 		 SelectionChanged="listBN_SelectionChanged">
 </DataGrid>
 
-<Button Click="...">
-	<Button.Template>
-		<ControlTemplate TargetType="Button">
-			<Grid>
-				<Ellipse Fill="Aqua"/>
-				<ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
-			</Grid>
-		</ControlTemplate>
-	</Button.Template>
+<Button Content="Button" Height="43" Width="89">
+	<Button.Resources>
+		<Style TargetType="Border">
+			<Setter Property="CornerRadius" Value="50"></Setter>
+		</Style>
+	</Button.Resources>
 </Button>
 
 Type t = list.SelectedItem.GetType();

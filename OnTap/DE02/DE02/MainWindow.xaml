@@ -38,46 +38,32 @@
             </DataGrid.Resources>
         </DataGrid>
         <Button Click="Them_Click" Content="Thêm" HorizontalAlignment="Left" Margin="83,386,0,0" VerticalAlignment="Top" Width="84" Height="38">
-            <Button.Template>
-                <ControlTemplate TargetType="Button">
-                    <Grid>
-                        <Ellipse Fill="Aqua"/>
-                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                    </Grid>
-                </ControlTemplate>
-            </Button.Template>
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="50"></Setter>
+                </Style>
+            </Button.Resources>
         </Button>
         <Button Click="Sua_Click" Content="Sửa" HorizontalAlignment="Left" Margin="275,386,0,0" VerticalAlignment="Top" Width="84" Height="38">
-            <Button.Template>
-                <ControlTemplate TargetType="Button">
-                    <Grid>
-                        <Ellipse Fill="Aqua"/>
-                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                    </Grid>
-                </ControlTemplate>
-            </Button.Template>
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="50"></Setter>
+                </Style>
+            </Button.Resources>
         </Button>
         <Button Click="Xoa_Click" Content="Xóa" HorizontalAlignment="Left" Margin="460,386,0,0" VerticalAlignment="Top" Width="84" Height="38" RenderTransformOrigin="0.89,0.459">
-            <Button.Template>
-                <ControlTemplate TargetType="Button">
-                    <Grid>
-                        <Ellipse Fill="Aqua"/>
-                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                    </Grid>
-                </ControlTemplate>
-            </Button.Template>
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="50"></Setter>
+                </Style>
+            </Button.Resources>
         </Button>
         <Button Click="Tim_Click" Content="Tìm" HorizontalAlignment="Left" Margin="646,386,0,0" VerticalAlignment="Top" Width="84" Height="38">
-            <Button.Template>
-                <ControlTemplate TargetType="Button">
-                    <Grid>
-                        <Ellipse Fill="Aqua"/>
-                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
-                    </Grid>
-                </ControlTemplate>
-            </Button.Template>
+            <Button.Resources>
+                <Style TargetType="Border">
+                    <Setter Property="CornerRadius" Value="50"></Setter>
+                </Style>
+            </Button.Resources>
         </Button>
-
-
     </Grid>
 </Window>

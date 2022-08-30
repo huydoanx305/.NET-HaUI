@@ -69,7 +69,7 @@ namespace DE01 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/DE01;V1.0.0.0;component/windowtk.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/DE01;component/windowtk.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\WindowTK.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
